@@ -19,6 +19,8 @@
 -->
 
 # Acumos Kubernetes Client
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeva%2Fkubernetes-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeva%2Fkubernetes-client?ref=badge_shield)
+
 
 This repository holds components and tools supporting deployment of Acumos
 machine learning models ("solutions") under kubernetes. This repo is maintained
@@ -31,3 +33,7 @@ Please see the documentation in the "docs" folder.
 
 Documentation for Solution Deployment in Private Kubernetes is provided at
 https://docs.acumos.org/en/latest/submodules/kubernetes-client/docs/deploy-in-private-k8s.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeva%2Fkubernetes-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeva%2Fkubernetes-client?ref=badge_large)
